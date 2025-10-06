@@ -29,40 +29,18 @@ La estetica de nuestro juego esta basada en gran parte en estos juegos y la meca
 ## Competidores indirectos
 
 ### Inscryption (Daniel Mullins Games)
-Plataformas
+Plataformas: PC, Play Station, Nintendo Switch
+Mecanica destacada: Juego dentro del juego, ruptura de la cuarta pared, mezcla de géneros.
+Este juego es una gran inspiracion para el nuestro, posee partes en 2d, en 3d, rompe la 4 pared, ambientacion de terror y resolucion de puzles, aunque no es la mecanica principal. Este podria suponer una competencia mas seria ya que en Steam en los ultimos 7 dias tiene un pico de 2229 jugadores simultaneos y una media de 1489 jugadores por hora. La grafica es algo mas estable y se ha mantenido mejor en el tiempo que ejemplo anteriores.
 
-///
-1. Inscryption (Daniel Mullins Games)
-
-Mecánica destacada: Juego dentro del juego, ruptura de la cuarta pared, mezcla de géneros.
-
-Relación con nuestro juego: La idea de que el jugador está “jugando un juego dentro de otro”, y que la interfaz cambia radicalmente, es compartida.
-
-Estética: Retro y moderna mezcladas; tono oscuro y misterioso.
-
-2. The Medium (Bloober Team)
-
-Mecánica destacada: Dos mundos paralelos renderizados simultáneamente, cambio entre planos de existencia.
-
-Relación: Cambio entre mundos para resolver puzles; estética de terror psicológico.
-
-Estética: Terror psicológico moderno, visualmente más cercano a vuestra parte 3D.
-
-3. Superliminal (Pillow Castle Games)
-
-Mecánica destacada: Uso de la perspectiva para alterar el entorno y resolver puzles.
-
-Relación: Aunque no tiene cambio de dimensión literal, sí explora la percepción del espacio y cómo afecta la jugabilidad.
-
-4. NieR: Automata (PlatinumGames)
-
+### NieR: Automata (PlatinumGames)
+Plataformas: PC, xbox, PlayStation, Nintendo Swictch.
 Mecánica destacada: Cambios constantes de estilo de juego (2D, 3D, shoot'em up), tono filosófico y mundo post-apocalíptico.
-
-Relación: Alternancia fluida entre perspectivas y géneros; estética post-apocalíptica.
+El juego posee una Alternancia fluida entre perspectivas y géneros y una estética post-apocalíptica. No se parece en gran medida a nuestro juego y el perfil de jugador de NieR Automata no es que se pueda ver atraido a nuestro proyecto mas allá de la estetica que es parecida y los cambios de estilo de juego. En Steam tiene un pico de 1863 jugadores en los ultimos 7 dias y 962 de media en las ultimas 24 horas.
 
 El juego que estamos desarrollando toma influencias de títulos conocidos, pero propone una combinación única:
 
-Una fuerte dualidad estética (colorido retro vs. brutalismo cyberpunk).
+Una fuerte dualidad estética (retro vs. brutalismo cyberpunk).
 
 El uso del cambio dimensional como herramienta narrativa y mecánica.
 
