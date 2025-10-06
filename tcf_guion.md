@@ -11,14 +11,14 @@ El genero de nuestro juego es puzles-terror, usa las dimensiones o el espacio pa
 ## Competidores directos.
 
 ### FEZ(Polytron Corporation)
-Plataformas: PC, Xbox, PlayStation, Nintendo Switch.
-Mecanica Destacada: Cambio de perspectiva 2D ↔ 3D para resolver puzles.
+####Plataformas: PC, Xbox, PlayStation, Nintendo Switch.
+####Mecanica Destacada: Cambio de perspectiva 2D ↔ 3D para resolver puzles.
 En relacion con nuestro juego, este, usa la mecanica de poder cambiar de dimensiones durante el juego para resolver puzles.
 No es una grab conpetencia, en los ultimos 7 dias segun estadisticas de Steam Charts ha tenido un pico de 62 jugadores simultaneos y una media de 33 por hora.
 
 ### The Medium (Bloober Team)
-Plataformas: PC, xbox, PlayStation, Nintendo Swictch.
-Mecanica destacada: Dos mundos paralelos renderizados simultáneamente, cambio entre planos de existencia para resolver puzles.
+####Plataformas: PC, xbox, PlayStation, Nintendo Swictch.
+####Mecanica destacada: Dos mundos paralelos renderizados simultáneamente, cambio entre planos de existencia para resolver puzles.
 Este juego es de terror psicologico y puzles en el que se jugar con 2 planos "existenciales" diferentes aunque los 2 son en 3D. No representa una gran competencia, en steam tiene un pico de 35 jugadores simultaneos en los ultimos 7 dias y una media de 8 jugadores por hora. El juego salio con un gran despunte pero rapidamente bajo exponencialmente su numero de jugadores.
 
 ### The Legend of Zelda: A Link to the Past / Link Between Worlds
