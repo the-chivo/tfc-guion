@@ -12,7 +12,7 @@ El genero de nuestro juego es puzles-terror, usa las dimensiones o el espacio pa
 
 ### FEZ(Polytron Corporation)
 ###Plataformas: PC, Xbox, PlayStation, Nintendo Switch.
-### Mecanica Destacada:
+#### Mecanica Destacada:
 Cambio de perspectiva 2D ↔ 3D para resolver puzles.
 En relacion con nuestro juego, este, usa la mecanica de poder cambiar de dimensiones durante el juego para resolver puzles.
 No es una grab conpetencia, en los ultimos 7 dias segun estadisticas de Steam Charts ha tenido un pico de 62 jugadores simultaneos y una media de 33 por hora.
